@@ -1,4 +1,5 @@
-![image](https://github.com/Ivy1093367/iReader_Final/assets/100365394/ce74440b-061e-4bef-833b-361d0c30863c)# 享讀★I讀-網路書店
+![image](https://github.com/Ivy1093367/iReader_Final/assets/100365394/2428f6a2-6c69-462e-9c27-97d9da0dba3c)
+# 享讀★I讀-網路書店
  網頁程式設計
 ## 創作動機
 網路書局盛行，但購書環境仍有改善空間，且常常有購買實體書籍回去後僅翻閱1-2次就用不到的情況，
